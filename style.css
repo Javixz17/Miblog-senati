@@ -1,0 +1,61 @@
+main{
+    color: #00F;
+    background-color: #CFC;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    min-height: 80vh;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.logo img{
+    width: 10%;
+    height: 15%;
+    display: block;
+    margin: 0 auto; 
+}
+title{
+    color: #F00;
+    font-family: Verdana, Calibri, sans-serif;
+    font-size: 32px;
+}
+.subTitulos{
+    color: #A00;
+    font-family: Verdana, Calibri, sans-serif;
+    font-size: 24px;
+}
+.datLista{
+    color: #060;
+}
+.lol{
+    color: #00F;
+}
+.sasa{
+    font-size: 20px;
+    color: white;
+    background-color: #6b6060;
+}
+.pop{
+    color: #FFF;
+    background-color: #000;
+}
+.box-model{
+    margin: 0 auto;
+    text-align: center;
+    border: 9px solid #c00;
+    width: 25%;
+    height: 30%;
+    display: table;
+    margin: 0 auto;
+    padding: 1%;
+    background-color:cadetblue;
+}
+.caja1{
+    color:#000;
+    border: 9px solid #c00;
+    text-align: center;
+    background-color: yellow;
+    margin: 0 auto;
+}
